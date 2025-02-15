@@ -8,16 +8,21 @@ description: >-
 # Ложные звонки от правоохранительных органов, родственников или начальства
 
 TODO: \
-\- защита банков и государства
+\- защита банков и государства\
+\- раздел для параноиков: участковый с визиткой
 
 В этой главе:\
 [#kak-rabotayut-takie-skhemy-moshennichestva](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#kak-rabotayut-takie-skhemy-moshennichestva "mention")\
 [#tipichnye-scenarii-zvonkov-i-deistviya-moshennikov](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#tipichnye-scenarii-zvonkov-i-deistviya-moshennikov "mention")\
 [#kak-raspoznat-moshennikov](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#kak-raspoznat-moshennikov "mention")\
-[#chto-delat-esli-vam-zvonyat](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#chto-delat-esli-vam-zvonyat "mention")\
+[#chto-delat-esli-vam-zvonyat-i-vy-somnevaetes](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#chto-delat-esli-vam-zvonyat-i-vy-somnevaetes "mention")\
 [#kak-zashitit-sebya](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#kak-zashitit-sebya "mention")\
 [#chto-delat-esli-vy-uzhe-stali-zhertvoi](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#chto-delat-esli-vy-uzhe-stali-zhertvoi "mention")\
 [#prakticheskie-primery](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md#prakticheskie-primery "mention")
+
+{% hint style="warning" %}
+Описанные в этом материале схемы мошенничества — это лишь часть из множества существующих методов обмана. Мошенники постоянно придумывают новые способы, адаптируясь к современным технологиям и социальным трендам. Поэтому важно всегда оставаться начеку: критически оценивать любые подозрительные звонки, сообщения или просьбы, не поддаваться на давление и проверять информацию через официальные источники. Помните: ваша бдительность — главный инструмент защиты от мошенников.
+{% endhint %}
 
 ### **Как работают такие схемы мошенничества**
 
@@ -86,7 +91,7 @@ TODO: \
 * **Они требуют срочных действий**: Мошенники создают искусственное ощущение чрезвычайной ситуации, например: "Ваш счет взломан, нужно срочно перевести деньги!" или "Ваш родственник в беде, помогите немедленно!". Помните: настоящие сотрудники организаций никогда не будут давить на вас и требовать мгновенных решений.
 * **Просят вас совершить конкретные действия**: Перевести деньги на "безопасный счет", снять наличные, купить криптовалюту, передать средства "курьеру" или "участвовать в задержании преступников". Никогда не делайте этого по просьбе незнакомцев.&#x20;
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Безопасных счетов не существует. \
 Правоохранительные органы никогда не просят граждан участвовать в операциях или передавать деньги.&#x20;
 {% endhint %}
@@ -101,7 +106,7 @@ TODO: \
 * **Звонит человек, представляется должностным лицом и называет фамилию, имя, отчество**. Вы можете проверить эту информацию в интернете. Скорее всего Вы действительно найдете такого человека. Но это не повод доверять. Мошенники имеют доступ к той же информации в том же интернете, что и вы. Они стали очень изобретательны в попытке вызвать доверие!
 
 {% hint style="info" %}
-Должностное лицо в случае любого уголовного дела, будь вы свидетелем или подозреваемым, вызовет вас на допрос повесткой
+Должностное лицо в случае любого уголовного дела, будь вы свидетелем или подозреваемым, вызовет на допрос повесткой
 {% endhint %}
 
 ***
@@ -267,8 +272,6 @@ TODO: \
 * **Как защититься**:
   * Не сообщайте коды из SMS.
   * Проверяйте информацию через официальные каналы связи.
-
-**7. Дополнительные приме**
 
 ***
 
