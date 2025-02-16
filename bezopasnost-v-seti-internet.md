@@ -1,5 +1,6 @@
 ---
 description: Coming soon...
+hidden: true
 ---
 
 # Безопасность в сети Интернет
