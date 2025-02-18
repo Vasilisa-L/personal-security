@@ -1,0 +1,37 @@
+---
+description: >-
+  Как защитить свои банковские карты от мошенников, какие данные можно сообщать,
+  а какие — ни в коем случае. Как безопасно пользоваться банковскими
+  приложениями, совершать платежи в интернете.
+cover: ../.gitbook/assets/Credit Card.jpg
+coverY: -121
+---
+
+# Безопасность банковских операций
+
+{% hint style="warning" %}
+Информация в курсе не исчерпывающая — мошенники постоянно изобретают новые методы.
+
+Переход по внешним ссылкам и использование данных — ваша ответственность. Всегда проверяйте информацию в официальных источниках.
+{% endhint %}
+
+Кажется, что защита банковской карты — это очевидная необходимость, но знаете ли вы, как именно это делать? Мошенники становятся все изощреннее: они могут позвонить под видом сотрудника банка, создать поддельный сайт или даже украсть данные через публичный Wi-Fi. Всего одна ошибка — и ваши деньги могут оказаться в чужих руках. В этой главе мы разберем простые, но эффективные способы защиты ваших карт и счетов. Вы узнаете, как распознать обман, безопасно пользоваться банковскими приложениями и совершать платежи в интернете без риска. Ваши деньги заслуживают надежной защиты!
+
+### В этой главе:
+
+{% content-ref url="kakie-dannye-mozhno-soobshat-a-kakie-net.md" %}
+[kakie-dannye-mozhno-soobshat-a-kakie-net.md](kakie-dannye-mozhno-soobshat-a-kakie-net.md)
+{% endcontent-ref %}
+
+{% content-ref url="bezopasnost-bankovskogo-prilozheniya.md" %}
+[bezopasnost-bankovskogo-prilozheniya.md](bezopasnost-bankovskogo-prilozheniya.md)
+{% endcontent-ref %}
+
+{% content-ref url="platezhi-v-internete.md" %}
+[platezhi-v-internete.md](platezhi-v-internete.md)
+{% endcontent-ref %}
+
+{% content-ref url="pamyatka.md" %}
+[pamyatka.md](pamyatka.md)
+{% endcontent-ref %}
+

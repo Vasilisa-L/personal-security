@@ -33,11 +33,11 @@ description: >-
 
 ### **Какие темы мы рассмотрим?**
 
-[kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat.md](kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat.md "mention")\
-[lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva.md "mention")\
-[zashita-akkaunta-gosuslug-ot-moshennikov.md](zashita-akkaunta-gosuslug-ot-moshennikov.md "mention")\
-[messendzhery-kak-obshatsya-bezopasno-i-ne-stat-zhertvoi-moshennikov.md](messendzhery-kak-obshatsya-bezopasno-i-ne-stat-zhertvoi-moshennikov.md "mention")\
-[bezopasnost-bankovskikh-operacii.md](bezopasnost-bankovskikh-operacii.md "mention")
+[kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat](kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat/ "mention")\
+[lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/ "mention")\
+[zashita-akkaunta-gosuslug-ot-moshennikov](zashita-akkaunta-gosuslug-ot-moshennikov/ "mention")\
+[messendzhery-kak-obshatsya-bezopasno-i-ne-stat-zhertvoi-moshennikov](messendzhery-kak-obshatsya-bezopasno-i-ne-stat-zhertvoi-moshennikov/ "mention")\
+[bezopasnost-bankovskikh-operacii](bezopasnost-bankovskikh-operacii/ "mention")
 
 ### Что надо перед тем, как начинать?
 
