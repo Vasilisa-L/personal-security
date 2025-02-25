@@ -20,26 +20,14 @@ coverY: -95.25210084033614
 Неофициальные версии мессенджеров могут содержать вредоносный код. Скачивайте приложения только из официальных магазинов (Google Play, App Store).
 {% endhint %}
 
-#### В этой главе: 
+#### В этой главе:
 
-{% content-ref url="podozritelnye-ssylki.md" %}
-[podozritelnye-ssylki.md](podozritelnye-ssylki.md)
-{% endcontent-ref %}
+[podozritelnye-ssylki.md](podozritelnye-ssylki.md "mention")
 
-{% content-ref url="vredonosnye-faily.md" %}
-[vredonosnye-faily.md](vredonosnye-faily.md)
-{% endcontent-ref %}
+[vredonosnye-faily.md](vredonosnye-faily.md "mention")
 
-{% content-ref url="nastroiki-konfidencialnosti.md" %}
-[nastroiki-konfidencialnosti.md](nastroiki-konfidencialnosti.md)
-{% endcontent-ref %}
+[nastroiki-konfidencialnosti.md](nastroiki-konfidencialnosti.md "mention")
 
-{% content-ref url="zashita-akkaunta.md" %}
-[zashita-akkaunta.md](zashita-akkaunta.md)
-{% endcontent-ref %}
-
-{% content-ref url="pamyatka.md" %}
-[pamyatka.md](pamyatka.md)
-{% endcontent-ref %}
+[zashita-akkaunta.md](zashita-akkaunta.md "mention")
 
 Безопасность в мессенджерах — это не только защита аккаунта, но и осторожность с группами, ботами, QR-кодами и облачными хранилищами. Регулярно проверяйте настройки, обучайте близких и используйте только официальные приложения. Это поможет вам избежать большинства угроз.&#x20;

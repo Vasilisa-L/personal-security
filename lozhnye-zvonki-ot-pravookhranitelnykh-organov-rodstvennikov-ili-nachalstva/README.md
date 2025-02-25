@@ -21,23 +21,10 @@ coverY: -27
 
 В этой главе:
 
-{% content-ref url="kak-rabotayut-takie-skhemy.md" %}
-[kak-rabotayut-takie-skhemy.md](kak-rabotayut-takie-skhemy.md)
-{% endcontent-ref %}
+[kak-rabotayut-takie-skhemy.md](kak-rabotayut-takie-skhemy.md "mention")
 
-{% content-ref url="kak-raspoznat-moshennikov.md" %}
-[kak-raspoznat-moshennikov.md](kak-raspoznat-moshennikov.md)
-{% endcontent-ref %}
+[kak-raspoznat-moshennikov.md](kak-raspoznat-moshennikov.md "mention")
 
-{% content-ref url="kak-zashitit-sebya.md" %}
-[kak-zashitit-sebya.md](kak-zashitit-sebya.md)
-{% endcontent-ref %}
+[kak-zashitit-sebya.md](kak-zashitit-sebya.md "mention")
 
-{% content-ref url="prakticheskie-primery.md" %}
-[prakticheskie-primery.md](prakticheskie-primery.md)
-{% endcontent-ref %}
-
-{% content-ref url="pamyatka.md" %}
-[pamyatka.md](pamyatka.md)
-{% endcontent-ref %}
-
+[primery-iz-novostei.md](primery-iz-novostei.md "mention")

@@ -19,19 +19,8 @@ coverY: -121
 
 ### В этой главе:
 
-{% content-ref url="kakie-dannye-mozhno-soobshat-a-kakie-net.md" %}
-[kakie-dannye-mozhno-soobshat-a-kakie-net.md](kakie-dannye-mozhno-soobshat-a-kakie-net.md)
-{% endcontent-ref %}
+[kakie-dannye-mozhno-soobshat-a-kakie-net.md](kakie-dannye-mozhno-soobshat-a-kakie-net.md "mention")
 
-{% content-ref url="bezopasnost-bankovskogo-prilozheniya.md" %}
-[bezopasnost-bankovskogo-prilozheniya.md](bezopasnost-bankovskogo-prilozheniya.md)
-{% endcontent-ref %}
+[bezopasnost-bankovskogo-prilozheniya.md](bezopasnost-bankovskogo-prilozheniya.md "mention")
 
-{% content-ref url="platezhi-v-internete.md" %}
-[platezhi-v-internete.md](platezhi-v-internete.md)
-{% endcontent-ref %}
-
-{% content-ref url="pamyatka.md" %}
-[pamyatka.md](pamyatka.md)
-{% endcontent-ref %}
-
+[platezhi-v-internete.md](platezhi-v-internete.md "mention")

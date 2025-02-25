@@ -16,26 +16,12 @@ coverY: 0
 
 В этой главе:
 
-{% content-ref url="chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md" %}
-[chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md](chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md)
-{% endcontent-ref %}
+[chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md](chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md "mention")
 
-{% content-ref url="kak-moshenniki-pytayutsya-poluchit-vash-kod.md" %}
-[kak-moshenniki-pytayutsya-poluchit-vash-kod.md](kak-moshenniki-pytayutsya-poluchit-vash-kod.md)
-{% endcontent-ref %}
+[kak-moshenniki-pytayutsya-poluchit-vash-kod.md](kak-moshenniki-pytayutsya-poluchit-vash-kod.md "mention")
 
-{% content-ref url="kogda-vvodit-kod-iz-sms-mozhno.md" %}
-[kogda-vvodit-kod-iz-sms-mozhno.md](kogda-vvodit-kod-iz-sms-mozhno.md)
-{% endcontent-ref %}
+[kogda-vvodit-kod-iz-sms-mozhno.md](kogda-vvodit-kod-iz-sms-mozhno.md "mention")
 
-{% content-ref url="kak-raspoznat-popytku-obmana.md" %}
-[kak-raspoznat-popytku-obmana.md](kak-raspoznat-popytku-obmana.md)
-{% endcontent-ref %}
+[kak-raspoznat-popytku-obmana.md](kak-raspoznat-popytku-obmana.md "mention")
 
-{% content-ref url="chto-delat-esli-kod-uzhe-soobshili.md" %}
-[chto-delat-esli-kod-uzhe-soobshili.md](chto-delat-esli-kod-uzhe-soobshili.md)
-{% endcontent-ref %}
-
-{% content-ref url="pamyatka.md" %}
-[pamyatka.md](pamyatka.md)
-{% endcontent-ref %}
+[chto-delat-esli-kod-uzhe-soobshili.md](chto-delat-esli-kod-uzhe-soobshili.md "mention")

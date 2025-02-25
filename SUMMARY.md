@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Как не стать жертвой мошенников](README.md)
-  * [TODO](kak-ne-stat-zhertvoi-moshennikov/todo.md)
 * [Коды из SMS: почему их нельзя никому сообщать](kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat/README.md)
   * [Что такое коды из SMS и зачем они нужны](kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat/chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md)
   * [Как мошенники пытаются получить ваш код](kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat/kak-moshenniki-pytayutsya-poluchit-vash-kod.md)
@@ -12,8 +11,8 @@
 * [Ложные звонки от правоохранительных органов, родственников или начальства](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/README.md)
   * [Как работают такие схемы](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/kak-rabotayut-takie-skhemy.md)
   * [Как распознать мошенников](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/kak-raspoznat-moshennikov.md)
+  * [Примеры из новостей](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/primery-iz-novostei.md)
   * [Как защитить себя](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/kak-zashitit-sebya.md)
-  * [Практические примеры](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/prakticheskie-primery.md)
   * [Памятка](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/pamyatka.md)
 * [Защита аккаунта Госуслуг от мошенников](zashita-akkaunta-gosuslug-ot-moshennikov/README.md)
   * [Почему важно защищать аккаунт Госуслуг](zashita-akkaunta-gosuslug-ot-moshennikov/pochemu-vazhno-zashishat-akkaunt-gosuslug.md)
@@ -31,3 +30,4 @@
   * [Безопасность банковского приложения](bezopasnost-bankovskikh-operacii/bezopasnost-bankovskogo-prilozheniya.md)
   * [Платежи в Интернете](bezopasnost-bankovskikh-operacii/platezhi-v-internete.md)
   * [Памятка](bezopasnost-bankovskikh-operacii/pamyatka.md)
+* [Общие правила цифровой гигиены](obshie-pravila-cifrovoi-gigieny.md)
