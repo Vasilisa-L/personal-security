@@ -89,7 +89,7 @@
 {% endhint %}
 
 * **Социальная инженерия:** Звонок от "сотрудника Госуслуг" с просьбой продиктовать код из SMS для "подтверждения личности" или "продления договора обслуживания SIM-карты" или даже "Подтверждения записи к врачу". \
-  [lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva](../lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/ "mention")
+  [calls](../calls/ "mention")
 * **Вредоносные программы:** Некоторые вирусы могут перехватывать SMS-сообщения на вашем телефоне.
 * **Фишинг:** Поддельные формы на сайтах или в приложениях могут запрашивать код из SMS.
 

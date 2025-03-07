@@ -33,11 +33,11 @@ description: >-
 
 ### **О чем поговорим?**
 
-[kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat](kody-iz-sms-pochemu-ikh-nelzya-nikomu-soobshat/ "mention")\
-[lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva](lozhnye-zvonki-ot-pravookhranitelnykh-organov-rodstvennikov-ili-nachalstva/ "mention")\
-[zashita-akkaunta-gosuslug-ot-moshennikov](zashita-akkaunta-gosuslug-ot-moshennikov/ "mention")\
-[messendzhery-kak-obshatsya-bezopasno-i-ne-stat-zhertvoi-moshennikov](messendzhery-kak-obshatsya-bezopasno-i-ne-stat-zhertvoi-moshennikov/ "mention")\
-[bezopasnost-bankovskikh-operacii](bezopasnost-bankovskikh-operacii/ "mention")
+[sms](sms/ "mention")\
+[calls](calls/ "mention")\
+[account](account/ "mention")\
+[messenger](messenger/ "mention")\
+[online-banking](online-banking/ "mention")
 
 ### Что надо перед тем, как начинать?
 
