@@ -4,6 +4,20 @@ description: >-
   их украсть, чтобы получить доступ к вашим деньгам и данным
 cover: ../.gitbook/assets/Cybersecurity Concept Collage.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Коды из SMS: почему их нельзя никому сообщать
@@ -27,3 +41,7 @@ coverY: 0
 [kak-raspoznat-popytku-obmana.md](kak-raspoznat-popytku-obmana.md "mention")
 
 [chto-delat-esli-kod-uzhe-soobshili.md](chto-delat-esli-kod-uzhe-soobshili.md "mention")
+
+{% content-ref url="chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md" %}
+[chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md](chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md)
+{% endcontent-ref %}

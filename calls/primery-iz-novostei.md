@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Примеры из новостей
 
 Мошенники постоянно придумывают новые способы обмана, используя социальную инженерию и технологии. Вот несколько современных схем, которые важно знать, чтобы не стать жертвой:
@@ -76,3 +90,7 @@
 ***
 
 Эти схемы показывают, насколько изощрёнными стали мошенники. Но зная их методы, вы сможете защитить себя и своих близких.
+
+{% content-ref url="kak-zashitit-sebya.md" %}
+[kak-zashitit-sebya.md](kak-zashitit-sebya.md)
+{% endcontent-ref %}

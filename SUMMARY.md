@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Как не стать жертвой мошенников](README.md)
+* [Безопасность в интернете](README.md)
+* [Как не стать жертвой мошенников](<README (1).md>)
 * [Коды из SMS: почему их нельзя никому сообщать](sms/README.md)
   * [Что такое коды из SMS и зачем они нужны](sms/chto-takoe-kody-iz-sms-i-zachem-oni-nuzhny.md)
   * [Как мошенники пытаются получить ваш код](sms/kak-moshenniki-pytayutsya-poluchit-vash-kod.md)
@@ -11,6 +12,7 @@
 * [Ложные звонки от правоохранительных органов, родственников или начальства](calls/README.md)
   * [Как работают такие схемы](calls/kak-rabotayut-takie-skhemy.md)
   * [Как распознать мошенников](calls/kak-raspoznat-moshennikov.md)
+  * [Как распознать звонок через мессенджер](calls/kak-raspoznat-zvonok-cherez-messendzher.md)
   * [Примеры из новостей](calls/primery-iz-novostei.md)
   * [Как защитить себя](calls/kak-zashitit-sebya.md)
   * [Памятка](calls/pamyatka.md)
@@ -21,6 +23,7 @@
   * [Что делать, если аккаунт Госуслуг взломали](account/chto-delat-esli-akkaunt-gosuslug-vzlomali.md)
 * [Мессенджеры: как общаться безопасно и не стать жертвой мошенников](messenger/README.md)
   * [Подозрительные ссылки](messenger/podozritelnye-ssylki.md)
+  * [Как распознать фишинговый сайт](messenger/kak-raspoznat-fishingovyi-sait.md)
   * [Вредоносные файлы](messenger/vredonosnye-faily.md)
   * [Настройки конфиденциальности](messenger/nastroiki-konfidencialnosti.md)
   * [Защита аккаунта](messenger/zashita-akkaunta.md)
